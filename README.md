@@ -35,4 +35,4 @@ To view or edit this project locally, follow these steps:
 1. Clone the Repository
 
 bash
-git clone https://github.com/kakashi5126/cafe-menu.git
+git clone https://github.com/j-virajsinh5126/cafe-menu.git
